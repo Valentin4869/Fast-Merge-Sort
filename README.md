@@ -1,2 +1,2 @@
 # Fast-Merge-Sort
-An efficient and fast implementation of Merge-Sort with STL in C++.
+A fast and efficient implementation of Merge-Sort with STL in C++.
